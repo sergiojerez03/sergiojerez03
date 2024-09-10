@@ -1,6 +1,7 @@
 <!--title-->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,I'm Sergio / sergiojerez03 ✨</h1>
 
+
 <!--social networks-->
 <h2>social networks</h2>
 <p align="left">
@@ -11,6 +12,7 @@
 <a href = "mailto:sergio03jerez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@sergiojerez03"/></a>
   </p>
 <br>
+
 
 <!--About Me-->
 <h2>About Me :+1:</h2>
@@ -29,8 +31,9 @@
   </p>
 <br>
 
-<!--tech stack icons-->
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+
+<!--Known technologies-->
+<h2>Known technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,5 +41,3 @@
   </a>
 </p>
 <br>
-<!-------------------------->
-
