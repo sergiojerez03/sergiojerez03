@@ -26,23 +26,20 @@
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **sergio03jerez@gmail.com**
+📫 Contact: **sergio03jerez@gmail.com**
 <!--Intro end-->
   </p>
 
-
+<h2 align="center">Known technologies👨🏻‍💻</h2>
 <!--Known technologies-->
-<h2 align="center">Known technologies👨🏻‍💻<hr></h2>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,mysql,php,androidstudio,flutter,dart,figma,ai,ps&theme=light"/>
   </a>
 </p>
 
-
+<hr>
 <h1>Thank You! 🤵 </h1>
 
-------
-  
 Credit: [Sergiojerez03](https://github.com/sergiojerez03)
 Last Edited on: 10/09/2024
