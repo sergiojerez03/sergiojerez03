@@ -29,17 +29,22 @@
 📫 Contact: **sergio03jerez@gmail.com**
 <!--Intro end-->
   </p>
-
+  
+<br>
 <h2 align="center">Known technologies👨🏻‍💻</h2>
 <!--Known technologies-->
 <p align="center">
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,mysql,php,androidstudio,flutter,dart,figma,ai,ps&theme=light"/>
   </a>
 </p>
 
 <hr>
-<h1>Thank You! 🤵 </h1>
+<br>
 
-Credit: [Sergiojerez03](https://github.com/sergiojerez03)
-Last Edited on: 10/09/2024
+![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiojerez03&custom_title=sergio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<h1>Thank You! </h1>
+<p>Credit: [Sergiojerez03](https://github.com/sergiojerez03)
+Last Edited on: 10/09/2024</p>
