@@ -29,15 +29,20 @@
 📫 Contacto: **sergio03jerez@gmail.com**
 <!--Intro end-->
   </p>
-<br>
 
 
 <!--Known technologies-->
-<h2>Known technologies👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
+<h2 align="center">Known technologies👨🏻‍💻<hr></h2>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,mysql,php,androidstudio,flutter,dart,figma,ai,ps&theme=light"/>
   </a>
 </p>
-<br>
+
+
+<h1>Thank You! 🤵 </h1>
+
+------
+  
+Credit: [Sergiojerez03](https://github.com/sergiojerez03)
+Last Edited on: 10/09/2024
