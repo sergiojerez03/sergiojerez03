@@ -51,5 +51,6 @@
 
 <!--Thank You-->
 <h1>Thank You! </h1>
-Credits: [Sergiojerez03](https://github.com/sergiojerez03)
+
+Credits: [Sergiojerez03](https://github.com/sergiojerez03)<br>
 Last Edited on: 10/09/2024
