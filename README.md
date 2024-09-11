@@ -23,7 +23,7 @@
 <!--About Me-->
 <h2>About Me :+1:</h2>
 <p align="left">
-🎓 I'm a SENA student in Software Analysis and Development.
+🎓 I’m currently a SENA student in Software Analysis and Development Technology. I am 19 years old, I am from Colombia and I am entering the world of programming.
 
 ✔ 🔭 I’m currently working on freelancer job.
   
