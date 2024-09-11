@@ -5,7 +5,7 @@
 
 
 <!--Title-->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Sergio / sergiojerez03 ✨</h1>
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Sergio / sergiojerez03 ✨</h1>
 
 
 <!--Social Networks-->
@@ -24,10 +24,16 @@
 <h2>About Me :+1:</h2>
 <p align="left">
 🎓 I'm a SENA student in Software Analysis and Development.
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-📫 Contact: **sergio03jerez@gmail.com**
+
+✔ 🔭 I’m currently working on freelancer job.
+  
+✔ 💬 Ask me about HTML, CSS,PHP,FLUTTER.
+
+✔ 📚 When I am free, I read finance and Buisness books.
+
+✔ 👨‍💻 I like to learn more every day in the world of programming.
+
+✔ 📫 Contact: **sergio03jerez@gmail.com**
 </p>
 <br>
   
@@ -46,7 +52,7 @@
 <hr>
 <br>
 
-![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiojerez03&custom_title=sergio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiojerez03&custom_title=sergiojerez03's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <!--Thank You-->
